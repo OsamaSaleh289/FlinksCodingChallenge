@@ -1,10 +1,10 @@
 # AngularApplication
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.8.
+Make Sure to git clone then run npm install before running ng serve in the root folder. Then from a seperate terminal window run dotnet run within the backend folder
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server then navigate from the terminal to the backend folder and run dotnet run. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
